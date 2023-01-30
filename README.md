@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - create a custom playlist
 - save it to your Spotify account
 
-<!-- You can view the live app [here](). -->
+You can view the live app [here](https://jam-master.surge.sh/).
 
 ## My Takeaways
 ### I gained a good grasp on how to:
