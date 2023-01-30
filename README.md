@@ -1,5 +1,4 @@
-# Jamming
-## A Codecademy React App
+# Jamming - A Codecademy React App
 ### Search for your favorite music and make a customized playlist
 >In order to improve my skills with React.js, I undertook this capstone project with Codecademy.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
